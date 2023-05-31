@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-##Social app, 
+## Social app, 
 Flutter, BLoc (cubit), Firebase, and Shared Preferences used
 
 ## Getting Started
